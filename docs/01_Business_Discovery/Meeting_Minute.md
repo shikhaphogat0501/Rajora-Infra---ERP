@@ -225,7 +225,8 @@ The following activities will be undertaken after completion of the Discovery Ph
 6.	Prepare database design and reporting requirements. 
  
 Document Approval
-Role	Name	Signature	Date
-Business Analyst	Shikha Phogat	__________	__________
-Project Sponsor	Managing Director	__________	__________
+
+Role                 	Name	
+Business Analyst	     Shikha Phogat
+Project Sponsor	      Managing Director Vishutosh Singh
 
