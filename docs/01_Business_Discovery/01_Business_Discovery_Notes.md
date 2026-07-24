@@ -1,31 +1,31 @@
 # Business Discovery Notes
 
 
-Project Name: Rajora ERP – Enterprise Residential Construction Management System
-Document ID: BDN-001
-Version: 1.0
-Prepared By: Shikha Phogat – Business Analyst
-Prepared For: Rajora Infra Homes Management
-Date: July 2026
-Document Status: Approved for Requirement Elicitation Phase
+**Project Name:** Rajora ERP – Enterprise Residential Construction Management System
+**Document ID:** BDN-001
+**Version:** 1.0
+**Prepared By:** Shikha Phogat – Business Analyst
+**Prepared For:** Rajora Infra Homes Management
+**Date:** July 2026
+**Document Status:** Approved for Requirement Elicitation Phase
 
-## Table of Contents
-1.Purpose
-2.Company Overview
-3.Business Overview
-4.Current Business Process
-5.Existing Software & Tools
-6.Current Challenges
-7.ERP Objectives
-8.Departments
-9.Stakeholder Analysis
-10.Business Modules
-11.AS-IS vs TO-BE Analysis
-12.Success Metrics
-13.Assumptions
-14.Constraints
-15.Risks
-16.Conclusion
+# Table of Contents
+-1.Purpose
+-2.Company Overview
+-3.Business Overview
+-4.Current Business Process
+-5.Existing Software & Tools
+-6.Current Challenges
+-7.ERP Objectives
+-8.Departments
+-9.Stakeholder Analysis
+-10.Business Modules
+-11.AS-IS vs TO-BE Analysis
+-12.Success Metrics
+-13.Assumptions
+-14.Constraints
+-15.Risks
+-16.Conclusion
 
 
 ## 1. Purpose
