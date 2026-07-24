@@ -9,7 +9,7 @@ Prepared For: Rajora Infra Homes Management
 Date: July 2026
 Document Status: Approved for Requirement Elicitation Phase
 
-Table of Contents
+## Table of Contents
 1.Purpose
 2.Company Overview
 3.Business Overview
@@ -28,7 +28,7 @@ Table of Contents
 16.Conclusion
 
 
-1. Purpose
+## 1. Purpose
 
 The purpose of this Business Discovery Document is to understand the existing business operations of Rajora Infra Homes and establish a comprehensive understanding of its organizational structure, operational processes, stakeholders, business challenges, and strategic objectives.
 
@@ -44,7 +44,7 @@ The information documented here will serve as the foundation for:
 •Solution Design
 •Testing Activities
 
-2. Company Overview
+## 2. Company Overview
    
 Company Name - Rajora Infra Homes
 
@@ -80,7 +80,7 @@ The company primarily serves:
 •Property investors
 •Customers purchasing through bank finance
 
-3. Business Overview
+# 3. Business Overview
 
 Rajora Infra Homes currently manages the following business functions.
 
